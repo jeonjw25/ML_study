@@ -16,7 +16,7 @@
 |          |                   YoungJ-Baek                   |                 jeonjw25                 | HoneyHon                         |      |
 | :------: | :---------------------------------------------: | :--------------------------------------: | -------------------------------- | ---- |
 |   Role   |               Study Group Leader                |     Github Master<br />Project Leader    | Slack Master<br />Project Leader |      |
-|   Job    |           Embedded/Firmware Engineer            |            HUFS student(Senior           |                                  |      |
+|   Job    |           Embedded/Firmware Engineer            |            HUFS student(Senior)          |                                  |      |
 |  Major   |             Electrical Engineering              |Information Communication<br />Engineering|                                  |      |
 | Interest | Image Processing/ML/DL<br />ML in Semiconductor |    Computer Vision/ DL<br />Drone Control|                                  |      |
 |   Link   |    [Github](https://github.com/YoungJ-Baek)     | [Github](https://github.com/jeonjw25)    |                                  |      |
