@@ -81,6 +81,7 @@
       - Master: **HoneyHon**
       - Status: **The literature review**
       - Link: [Github](https://github.com/jeonjw25/ML_study/tree/main/Translating_Sign_Language)
+      - Reference : [Swin Transformer](https://github.com/microsoft/Swin-Transformer)
    2. Drone
       - Master: **jeonjw25**
       - Status: -
