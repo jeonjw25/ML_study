@@ -16,7 +16,8 @@ def three_sum(X, Y, Z):
         if two_sum(X, Y, -i):
             return True
     return False
-# 리스트 Z를 순회하는 for문 안에 two_sum이 있으므로 Big-O로 표기하면 O(n^2)이다.
+# 리스트 Z를 순회하는 for문 안에 two_sum이 있으므로 T(4n^2 + cn) 혹은 T(2n^2 + cn)이 된다. 
+# 따라서 Big-O로 표기하면 O(n^2)이다.
 
 X = input()
 Y = input()
