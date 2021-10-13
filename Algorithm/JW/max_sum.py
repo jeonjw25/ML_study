@@ -4,7 +4,7 @@ def max_sum(A, left, right):
 	if left == mid:
 		return max(max(A), sum(A))
         
-	max1, max2 = 0, 0
+	max1, max2 = min(A), min(A)
 	sum1, sum2 = 0, 0
 	for i in range(mid, left-1, -1):
 		sum1 += A[i]
